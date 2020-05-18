@@ -13,7 +13,6 @@ buildscript {
 plugins {
   id "org.sonarqube" version "2.8"
 }
-//test
 
 apply plugin: 'java'
 apply plugin: 'eclipse'
